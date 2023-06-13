@@ -1,0 +1,10 @@
+* trivial-compress
+
+Compress a directory from Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/ceramic/trivial-compress.git   |
+| commit  | b76e847  |
+| systems | trivial-compress |
+|---------+-------------------------------------------|
+
